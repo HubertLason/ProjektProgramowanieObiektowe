@@ -1,0 +1,17 @@
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\bin\Debug\net7.0\Projekt w67248.exe
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\bin\Debug\net7.0\Projekt w67248.deps.json
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\bin\Debug\net7.0\Projekt w67248.runtimeconfig.json
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\bin\Debug\net7.0\Projekt w67248.dll
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\bin\Debug\net7.0\Projekt w67248.pdb
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\obj\Debug\net7.0\Projekt w67248.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\obj\Debug\net7.0\Projekt w67248.AssemblyInfoInputs.cache
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\obj\Debug\net7.0\Projekt w67248.AssemblyInfo.cs
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\obj\Debug\net7.0\Projekt w67248.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\obj\Debug\net7.0\Projekt w67248.dll
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\obj\Debug\net7.0\refint\Projekt w67248.dll
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\obj\Debug\net7.0\Projekt w67248.pdb
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\obj\Debug\net7.0\Projekt w67248.genruntimeconfig.cache
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\obj\Debug\net7.0\ref\Projekt w67248.dll
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\obj\Debug\net7.0\Projekt w67248.csproj.AssemblyReference.cache
+C:\Users\Hubert\source\repos\Projekt w67248\Projekt w67248\obj\Debug\net7.0\Projekt w67248.csproj.CopyComplete
